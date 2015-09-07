@@ -13,7 +13,7 @@ png( filename = "plot1.png",
      height = 480,
      width = 480,
      units = "px",
-     bg = "transparent" #"white"?
+     bg = "white"
 )
 
 # the actual plot:
